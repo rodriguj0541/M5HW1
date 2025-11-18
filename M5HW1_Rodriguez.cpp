@@ -1,6 +1,7 @@
 /*
-Name: Josue Rodriguez
-Date: 11/18/2025
+Josue Rodriguez
+CSC-134-0901
+ 11/18/2025
 Assignment: M5HW1 - Gold standard (Qs 1–6)
 
 */
